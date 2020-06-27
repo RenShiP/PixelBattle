@@ -1,0 +1,87 @@
+body{
+    background-color: #282336;
+    color: #7aaad8;
+    margin-left: 25%;
+}
+
+.paper {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border: 1px solid rgb(91, 84, 128);
+}
+
+td {
+    padding: 0px
+}
+
+.pix{
+    width: 9px;
+    height: 9px;
+
+}
+
+.choisediv{
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgb(91, 84, 128);
+    margin-right: 4px;
+}
+
+#colorred{
+    background-color: red;
+}
+
+#colorgreen{
+    background-color: rgb(0, 255, 0);
+}
+
+#colorblue{
+    background-color: rgb(0, 0, 255);
+}
+
+#colorwhite{
+    background-color: white;
+}
+
+#colorblack{
+    background-color: black;
+}
+
+#yourcolor{
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgb(91, 84, 128);
+    background-color: white;
+    margin-right: 23px;
+}
+
+#tablebord{
+    border-bottom: 1px solid rgb(91, 84, 128);
+    width: 112px;
+}
+
+#choisecolor{
+    border: 1px solid rgb(91, 84, 128);
+    max-width: 112px;
+    margin-left: 10%;
+}
+
+#colororange{
+    background-color: rgb(255, 174, 0);
+}
+
+#coloryellow{
+    background-color: rgb(255, 251, 0);
+}
+
+#colormore{
+    background-color: rgb(0, 225, 255);
+}
+
+#colorfazan{
+    background-color: rgb(255, 0, 255);
+}
+
+#colorlife{
+    background-color: rgb(128, 128, 128);
+}
